@@ -8,7 +8,7 @@
     width: 100%;
 }
 
-.container {
+.banner-title {
     position: relative;
     right: 15%;
     bottom: 50%;
@@ -24,6 +24,63 @@
     border: 0;
     border-radius: 5px;
     margin-top: 10px;
+}
+
+.second-img {
+
+    margin-left: 150px;
+
+}
+
+.todo-list {
+    font-size: larger;
+    display: flex;
+    gap: 100px;
+    margin: 200px auto;
+    align-items: center;
+}
+
+li {
+    list-style: square;
+    margin-top: 15px;
+    color: rgb(100, 97, 97);
+}
+
+.list-title {
+    margin-bottom: 20px;
+}
+
+.goal {
+    text-align: left;
+}
+
+.plans {
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+.checklist {
+    display: flex;
+    gap: 50px;
 
 
+}
+
+.description {
+    margin-top: 20px;
+    color: rgb(100, 97, 97);
+
+}
+
+.icons {
+    margin-left: 150px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.motivation {
+    margin: 40px 50px;
+    text-align: center;
+    color: rgb(100, 97, 97);
 }
