@@ -84,3 +84,88 @@ li {
     text-align: center;
     color: rgb(100, 97, 97);
 }
+
+.cover {
+
+    margin: 20px 150px;
+
+}
+
+.sec-cover {
+    position: relative;
+    left: 150px;
+    top: -325px;
+}
+
+.cover-description {
+    position: relative;
+    left: 200px;
+    top: -550px;
+    color: white;
+    font-size: x-large;
+
+}
+
+.white {
+    background-color: white;
+    color: orangered;
+    border: 0;
+    padding: 20px 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.last-section {
+    display: flex;
+    margin-top: -400px;
+    padding: 200px;
+    gap: 30px;
+    align-items: center;
+}
+
+.book {
+    margin: 20px 0;
+    color: rgb(100, 97, 97);
+
+}
+
+footer {
+    display: flex;
+    gap: 100px;
+    padding: 100px;
+    color: white;
+
+    background-color: black;
+
+}
+
+.footer {
+    margin-left: 150px;
+
+}
+
+input {
+    margin: 20px;
+    border: 2px solid white;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 100%;
+}
+
+
+
+.subscribe {
+    margin: 15px;
+    border: 0;
+    border-radius: 5px;
+    padding: 20px 45px;
+    background-color: white;
+    color: orangered;
+}
+
+#images {
+    margin-top: 20px;
+
+}
